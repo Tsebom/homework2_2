@@ -1,0 +1,53 @@
+{
+  "яичница": [
+    {
+      "measure": "шт.",
+      "quantity": 2,
+      "ingridient_name": "яйца"
+    },
+    {
+      "measure": "гр.",
+      "quantity": 100,
+      "ingridient_name": "помидоры"
+    }
+  ],
+  "стейк": [
+    {
+      "measure": "гр.",
+      "quantity": 300,
+      "ingridient_name": "говядина"
+    },
+    {
+      "measure": "гр.",
+      "quantity": 5,
+      "ingridient_name": "специи"
+    },
+    {
+      "measure": "мл.",
+      "quantity": 10,
+      "ingridient_name": "масло"
+    }
+  ],
+  "салат": [
+    {
+      "measure": "гр.",
+      "quantity": 100,
+      "ingridient_name": "помидоры"
+    },
+    {
+      "measure": "гр.",
+      "quantity": 100,
+      "ingridient_name": "огурцы"
+    },
+    {
+      "measure": "мл.",
+      "quantity": 100,
+      "ingridient_name": "масло"
+    },
+    {
+      "measure": "шт.",
+      "quantity": 1,
+      "ingridient_name": "лук"
+    }
+  ]
+}
